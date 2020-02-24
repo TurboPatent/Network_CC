@@ -1,0 +1,268 @@
+{
+  "name": "Network_CC",
+  "description": "IBM style network model for cloud computing",
+  "owner": {
+    "login": "TurboPatent",
+    "type": "organization"
+  },
+  "license": "MIT",
+  "private": false,
+  "details": {
+    "counts": {
+      "termCount": 22,
+      "claimCount": 1,
+      "independentCount": 1,
+      "drawingCount": 3,
+      "glossaryCount": 0
+    },
+    "briefDescriptions": [
+      "<p data-is-numbered=\"true\"><span data-role=\"tag\" id=\"id77f3d1d4-6d19-b685-05b0-32e07cf5d121\" data-type=\"figure\" data-value=\"79fdab1e-3f35-a81b-18f4-6bfa8a6f609f\">FIG. 1</span> depicts a cloud computing environment according to aspects of the present disclosure.</p>",
+      "<p data-is-numbered=\"true\"><span data-role=\"tag\" id=\"id8b93888e-72b6-04b1-16a4-e93a46152600\" data-type=\"figure\" data-value=\"21d1867e-a73b-e392-8418-bdb5a08c8007\">FIG. 2</span> depicts abstraction model layers according to aspects of the present disclosure;</p>",
+      "<p data-is-numbered=\"true\"><span data-role=\"tag\" id=\"id1fc7aa36-8320-d129-74a9-5344f75981da\" data-type=\"figure\" data-value=\"c4b667fb-b388-eb2e-6f14-63981e21e871\">FIG. 3</span> depicts a block diagram of a processing system for implementing the techniques described herein according to aspects of the present disclosure;</p>"
+    ],
+    "parts": [
+      {
+        "name": "cloud computing environment",
+        "number": 102
+      },
+      {
+        "name": "computing nodes",
+        "number": 104
+      },
+      {
+        "name": "cellular telephone",
+        "number": 106
+      },
+      {
+        "name": "desktop computer",
+        "number": 108
+      },
+      {
+        "name": "laptop computer",
+        "number": 110
+      },
+      {
+        "name": "automobile computer system",
+        "number": 112
+      },
+      {
+        "name": "item",
+        "number": 200
+      },
+      {
+        "name": "workloads layer",
+        "number": 202
+      },
+      {
+        "name": "management layer",
+        "number": 204
+      },
+      {
+        "name": "virtualization layer",
+        "number": 206
+      },
+      {
+        "name": "hardware and software layer",
+        "number": 208
+      },
+      {
+        "name": "mapping and navigation",
+        "number": 210
+      },
+      {
+        "name": "software development and lifecycle management",
+        "number": 212
+      },
+      {
+        "name": "virtual classroom education delivery",
+        "number": 214
+      },
+      {
+        "name": "data analytics processing",
+        "number": 216
+      },
+      {
+        "name": "transaction processing",
+        "number": 218
+      },
+      {
+        "name": "search string creation, evaluation, and/or improvement",
+        "number": 220
+      },
+      {
+        "name": "Resource provisioning",
+        "number": 222
+      },
+      {
+        "name": "Metering and Pricing",
+        "number": 224
+      },
+      {
+        "name": "User portal",
+        "number": 226
+      },
+      {
+        "name": "Service level management",
+        "number": 228
+      },
+      {
+        "name": "Service Level Agreement (SLA) planning and fulfillment",
+        "number": 230
+      },
+      {
+        "name": "virtual servers",
+        "number": 232
+      },
+      {
+        "name": "virtual storage",
+        "number": 234
+      },
+      {
+        "name": "virtual networks",
+        "number": 236
+      },
+      {
+        "name": "virtual applications and operating systems",
+        "number": 238
+      },
+      {
+        "name": "virtual clients",
+        "number": 240
+      },
+      {
+        "name": "mainframes",
+        "number": 242
+      },
+      {
+        "name": "servers",
+        "number": 244
+      },
+      {
+        "name": "servers",
+        "number": 246
+      },
+      {
+        "name": "servers",
+        "number": 248
+      },
+      {
+        "name": "storage devices",
+        "number": 250
+      },
+      {
+        "name": "networks and networking components",
+        "number": 252
+      },
+      {
+        "name": "network application server software",
+        "number": 254
+      },
+      {
+        "name": "database software",
+        "number": 256
+      },
+      {
+        "name": "processing system",
+        "number": 300
+      },
+      {
+        "name": "hard disk",
+        "number": 302
+      },
+      {
+        "name": "operating system",
+        "number": 304
+      },
+      {
+        "name": "tape storage device",
+        "number": 306
+      },
+      {
+        "name": "I/O adapter",
+        "number": 308
+      },
+      {
+        "name": "network adapter",
+        "number": 310
+      },
+      {
+        "name": "ROM",
+        "number": 312
+      },
+      {
+        "name": "RAM",
+        "number": 314
+      },
+      {
+        "name": "processors",
+        "number": 316
+      },
+      {
+        "name": "user interface adapter",
+        "number": 318
+      },
+      {
+        "name": "display adapter",
+        "number": 320
+      },
+      {
+        "name": "graphics processing unit",
+        "number": 322
+      },
+      {
+        "name": "keyboard",
+        "number": 324
+      },
+      {
+        "name": "display",
+        "number": 326
+      },
+      {
+        "name": "mouse",
+        "number": 328
+      },
+      {
+        "name": "speaker",
+        "number": 330
+      },
+      {
+        "name": "mass storage",
+        "number": 332
+      },
+      {
+        "name": "system bus",
+        "number": 334
+      },
+      {
+        "name": "network",
+        "number": 336
+      }
+    ],
+    "terms": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "glossary": []
+  },
+  "repository": "https://github.com/TurboPatent/Network_CC"
+}

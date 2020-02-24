@@ -1,0 +1,52 @@
+{
+  "documentMap": [
+    {
+      "path": "spec/cross-reference.html"
+    },
+    {
+      "path": "spec/background.html"
+    },
+    {
+      "path": "spec/brief-summary.html"
+    },
+    {
+      "path": "spec/brief-description-front-matter.html"
+    },
+    {
+      "path": "drawings/79fdab1e-3f35-a81b-18f4-6bfa8a6f609f/brief-description.html"
+    },
+    {
+      "path": "drawings/21d1867e-a73b-e392-8418-bdb5a08c8007/brief-description.html"
+    },
+    {
+      "path": "drawings/c4b667fb-b388-eb2e-6f14-63981e21e871/brief-description.html"
+    },
+    {
+      "path": "spec/detailed-description-intro.html"
+    },
+    {
+      "path": "drawings/79fdab1e-3f35-a81b-18f4-6bfa8a6f609f/detailed-description.html"
+    },
+    {
+      "path": "drawings/21d1867e-a73b-e392-8418-bdb5a08c8007/detailed-description.html"
+    },
+    {
+      "path": "drawings/c4b667fb-b388-eb2e-6f14-63981e21e871/detailed-description.html"
+    },
+    {
+      "path": "spec/detailed-description-conclusion.html"
+    },
+    {
+      "path": "spec/claims-front-matter.html"
+    },
+    {
+      "path": "claims/54ba3905-cd33-2bc2-8780-c9b3ff4e0783.html"
+    },
+    {
+      "path": "spec/abstract.html"
+    }
+  ],
+  "migrations": {
+    "editableHeadings": true
+  }
+}

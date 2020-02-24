@@ -1,0 +1,1089 @@
+{
+  "isLandscape": true,
+  "drawingData": {
+    "cells": [
+      {
+        "type": "tp.Element",
+        "shape": "numberLabel",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "item",
+        "lockAspectRatio": false,
+        "position": {
+          "x": 722,
+          "y": 10
+        },
+        "size": {
+          "width": 28.346457481384277,
+          "height": 28.346457481384277
+        },
+        "angle": 0,
+        "label": "item",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "only",
+        "id": "2f7ff962-3731-4923-8200-5ecbf829c27e",
+        "z": 1,
+        "objectID": "96fdea9d-703b-18d1-85ed-074aec0545d9",
+        "pluralName": "",
+        "number": 0
+      },
+      {
+        "type": "tp.Element",
+        "shape": "dynamicSvg",
+        "labelVAlign": "center",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "lockAspectRatio": false,
+        "position": {
+          "x": 18,
+          "y": 405
+        },
+        "size": {
+          "width": 877,
+          "height": 173
+        },
+        "angle": 0,
+        "label": "",
+        "strokeStyle": "none",
+        "hasName": false,
+        "labelPosition": "internal",
+        "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"Layer_1\" data-name=\"Layer 1\" viewBox=\"0 0 322.04 107.67\"><defs><style>.cls-1{fill:#fff;stroke:#231f20;stroke-miterlimit:10;}</style></defs><title>trapazoid</title><polygon class=\"cls-1\" points=\"238.1 107.17 1.02 107.17 83.94 0.5 321.02 0.5 238.1 107.17\"></polygon></svg>",
+        "id": "0e8a0765-0a39-4c06-9518-006f4ed9b6d3",
+        "z": 2,
+        "objectID": "f07f6522-b27e-246d-5fc3-7baa802c7c2e",
+        "pluralName": "",
+        "number": null
+      },
+      {
+        "type": "tp.Element",
+        "shape": "dynamicSvg",
+        "labelVAlign": "center",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "lockAspectRatio": false,
+        "position": {
+          "x": 6,
+          "y": 288
+        },
+        "size": {
+          "width": 877,
+          "height": 173.19838056680157
+        },
+        "angle": 0,
+        "label": "",
+        "strokeStyle": "none",
+        "hasName": false,
+        "labelPosition": "internal",
+        "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"Layer_1\" data-name=\"Layer 1\" viewBox=\"0 0 322.04 107.67\"><defs><style>.cls-1{fill:#fff;stroke:#231f20;stroke-miterlimit:10;}</style></defs><title>trapazoid</title><polygon class=\"cls-1\" points=\"238.1 107.17 1.02 107.17 83.94 0.5 321.02 0.5 238.1 107.17\"></polygon></svg>",
+        "id": "0d3578c6-a364-1f53-7f16-8c428433120f",
+        "z": 3,
+        "objectID": "b26dc884-58ab-7b76-c73a-0ff49b58b640",
+        "pluralName": "",
+        "number": null
+      },
+      {
+        "type": "tp.Element",
+        "shape": "textboxLabel",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "<p>virtualization layer</p>",
+        "lockAspectRatio": false,
+        "position": {
+          "x": 16,
+          "y": 438
+        },
+        "size": {
+          "width": 170,
+          "height": 24.207867852558284
+        },
+        "angle": 0,
+        "label": "<p>virtualization</p>",
+        "strokeStyle": "none",
+        "hasName": true,
+        "labelPosition": "internal",
+        "id": "3cfd8def-25a9-e53d-f261-9fc6ebafd35a",
+        "z": 16,
+        "objectID": "c338ccc0-1104-215c-f2f3-3b887a9ff85b",
+        "pluralName": "",
+        "number": 6
+      },
+      {
+        "type": "tp.Element",
+        "shape": "textboxLabel",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "<p>hardware and software layer</p>",
+        "lockAspectRatio": false,
+        "position": {
+          "x": 26,
+          "y": 557
+        },
+        "size": {
+          "width": 238,
+          "height": 17
+        },
+        "angle": 0,
+        "label": "<p>hardware and software</p>",
+        "strokeStyle": "none",
+        "hasName": true,
+        "labelPosition": "internal",
+        "id": "b5375329-b9e7-bf06-45ee-6186d6119c5f",
+        "z": 17,
+        "objectID": "13447c7a-6a3a-1fb1-0b4f-f17eddbc4ea9",
+        "pluralName": "",
+        "number": 8
+      },
+      {
+        "type": "tp.Element",
+        "shape": "multiBox",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": true,
+        "displayCase": "uppercase",
+        "name": "<p>virtual servers</p>",
+        "lockAspectRatio": true,
+        "position": {
+          "x": 125,
+          "y": 385
+        },
+        "size": {
+          "width": 34.5,
+          "height": 23
+        },
+        "angle": 0,
+        "label": "",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "id": "671e0d6d-943f-4428-bc30-1b8522ed6215",
+        "z": 18,
+        "objectID": "233952fb-5a29-79a4-1587-8ec28766c151",
+        "pluralName": "",
+        "number": 32,
+        "numberPosition": {
+          "connectionAngle": 210,
+          "leadLineAngle": 210,
+          "leadLineLength": 23
+        }
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": true,
+        "displayCase": "uppercase",
+        "name": "<p>virtual clients</p>",
+        "lockAspectRatio": false,
+        "position": {
+          "x": 528,
+          "y": 374
+        },
+        "size": {
+          "width": 128,
+          "height": 58
+        },
+        "angle": 0,
+        "label": "",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "numberPosition": {
+          "connectionAngle": 0,
+          "leadLineAngle": 0,
+          "leadLineLength": 23
+        },
+        "id": "0e1c1a1f-1f0b-4a16-9207-00725d796cad",
+        "z": 20,
+        "objectID": "e63dabf8-4d6f-5845-dd78-4c79e64e7ba5",
+        "pluralName": "",
+        "number": 40
+      },
+      {
+        "type": "tp.Element",
+        "shape": "cylinder",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": true,
+        "displayCase": "uppercase",
+        "name": "<p>database software</p>",
+        "lockAspectRatio": false,
+        "position": {
+          "x": 644,
+          "y": 499
+        },
+        "size": {
+          "width": 34,
+          "height": 38
+        },
+        "angle": 0,
+        "label": "",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "numberPosition": {
+          "connectionAngle": 240,
+          "leadLineAngle": 240,
+          "leadLineLength": 23
+        },
+        "id": "81c571e7-74d1-61e8-a511-8ab3c8a50641",
+        "z": 20,
+        "objectID": "405a3b96-408c-499e-5871-676f8cbf06b0",
+        "pluralName": "",
+        "number": 56
+      },
+      {
+        "type": "tp.Element",
+        "shape": "monitor",
+        "labelVAlign": "center",
+        "isNumbered": false,
+        "outsideNumbers": true,
+        "displayCase": "uppercase",
+        "name": "",
+        "lockAspectRatio": true,
+        "position": {
+          "x": 533,
+          "y": 385
+        },
+        "size": {
+          "width": 53,
+          "height": 39.34366666666668
+        },
+        "angle": 0,
+        "label": "",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "internal",
+        "numberPosition": {
+          "connectionAngle": 210,
+          "leadLineAngle": 210
+        },
+        "id": "fb788655-1bb3-4fb2-8a9e-d34963251b17",
+        "z": 21,
+        "objectID": "252147b2-f3a6-f4e2-85bd-1b1d75bf6e05",
+        "pluralName": "",
+        "number": null
+      },
+      {
+        "type": "tp.Element",
+        "shape": "monitor",
+        "labelVAlign": "center",
+        "isNumbered": false,
+        "outsideNumbers": true,
+        "displayCase": "uppercase",
+        "name": "",
+        "lockAspectRatio": true,
+        "position": {
+          "x": 594,
+          "y": 384
+        },
+        "size": {
+          "width": 53.88414907947911,
+          "height": 40
+        },
+        "angle": 0,
+        "label": "",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "internal",
+        "numberPosition": {
+          "connectionAngle": 210,
+          "leadLineAngle": 210
+        },
+        "id": "83fc59af-dcde-8628-f759-995f0ace9ccf",
+        "z": 22,
+        "objectID": "01b3b0de-710e-e6b2-11e9-e165397e14b0",
+        "pluralName": "",
+        "number": null
+      },
+      {
+        "type": "tp.Element",
+        "shape": "globe",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": true,
+        "displayCase": "uppercase",
+        "name": "<p>network application server software</p>",
+        "lockAspectRatio": true,
+        "position": {
+          "x": 589,
+          "y": 498
+        },
+        "size": {
+          "width": 38,
+          "height": 38
+        },
+        "angle": 0,
+        "label": "",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "bottom",
+        "numberPosition": {
+          "connectionAngle": 240,
+          "leadLineAngle": 240,
+          "leadLineLength": 23
+        },
+        "id": "d901877c-734d-4bd1-a2ec-94f653f573a0",
+        "z": 23,
+        "objectID": "7669d6c3-c77a-b553-e1d5-17791ebe8efd",
+        "pluralName": "",
+        "number": 54
+      },
+      {
+        "type": "tp.Element",
+        "shape": "server",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": true,
+        "displayCase": "uppercase",
+        "name": "<p>mainframes</p>",
+        "lockAspectRatio": false,
+        "position": {
+          "x": 140,
+          "y": 477
+        },
+        "size": {
+          "width": 29,
+          "height": 52
+        },
+        "angle": 0,
+        "label": "",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "bottom",
+        "numberPosition": {
+          "connectionAngle": 210,
+          "leadLineAngle": 210,
+          "leadLineLength": 23
+        },
+        "id": "7cd33886-faa8-41b1-92bc-366bf637394f",
+        "z": 24,
+        "objectID": "ab94cfc6-58c2-14ea-17ea-9510c8b26957",
+        "pluralName": "",
+        "number": 42
+      },
+      {
+        "type": "tp.Element",
+        "shape": "server",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": true,
+        "displayCase": "uppercase",
+        "name": "<p>servers</p>",
+        "lockAspectRatio": false,
+        "position": {
+          "x": 214,
+          "y": 478
+        },
+        "size": {
+          "width": 29,
+          "height": 52
+        },
+        "angle": 180,
+        "label": "",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "bottom",
+        "numberPosition": {
+          "connectionAngle": 210,
+          "leadLineAngle": 210,
+          "leadLineLength": 23
+        },
+        "id": "050ab836-9532-8324-addd-54feb799152f",
+        "z": 25,
+        "objectID": "7faf160b-858c-215d-a471-431f58612a8b",
+        "pluralName": "",
+        "number": 44
+      },
+      {
+        "type": "tp.Element",
+        "shape": "setBox",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": true,
+        "displayCase": "uppercase",
+        "name": "<p>servers</p>",
+        "lockAspectRatio": false,
+        "position": {
+          "x": 268,
+          "y": 506
+        },
+        "size": {
+          "width": 37,
+          "height": 12
+        },
+        "angle": 0,
+        "label": "",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "bottom",
+        "numberPosition": {
+          "connectionAngle": 270,
+          "leadLineAngle": 270,
+          "leadLineLength": 23
+        },
+        "id": "74f83182-816b-4100-aed7-8cf3d09b067f",
+        "z": 26,
+        "objectID": "502f14dc-aebb-c77e-8558-723a09be599d",
+        "pluralName": "",
+        "number": 46
+      },
+      {
+        "type": "tp.Element",
+        "shape": "dynamicSvg",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": true,
+        "displayCase": "uppercase",
+        "name": "<p>virtual networks</p>",
+        "lockAspectRatio": false,
+        "position": {
+          "x": 310,
+          "y": 377
+        },
+        "size": {
+          "width": 46,
+          "height": 45
+        },
+        "angle": 0,
+        "label": "",
+        "strokeStyle": "none",
+        "hasName": true,
+        "labelPosition": "internal",
+        "numberPosition": {
+          "connectionAngle": 300,
+          "leadLineAngle": 300,
+          "leadLineLength": 15
+        },
+        "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"Layer_1\" data-name=\"Layer 1\" viewBox=\"0 0 91.54 99.66\"><defs><style>.cls-1,.cls-2,.cls-3{fill:none;stroke:#000;}.cls-1,.cls-2{stroke-miterlimit:10;}.cls-1,.cls-3{stroke-width:0.8px;}.cls-3{stroke-linecap:round;stroke-linejoin:round;}</style></defs><title>atm switch</title><rect class=\"cls-1\" x=\"0.4\" y=\"23.74\" width=\"75.51\" height=\"75.51\"></rect><polyline class=\"cls-2\" points=\"12.91 47.09 28.91 47.09 46.4 75.91 63.41 75.91\"></polyline><polygon points=\"14 50.83 7.52 47.09 14 43.34 14 50.83\"></polygon><polygon points=\"62.32 79.65 68.79 75.91 62.32 72.17 62.32 79.65\"></polygon><polyline class=\"cls-2\" points=\"12.91 75.91 28.91 75.91 46.4 47.09 63.41 47.09\"></polyline><polygon points=\"14 79.65 7.52 75.91 14 72.17 14 79.65\"></polygon><polygon points=\"62.32 50.83 68.79 47.09 62.32 43.34 62.32 50.83\"></polygon><polygon class=\"cls-3\" points=\"91.13 75.91 75.91 99.26 75.91 23.74 91.13 0.4 91.13 75.91\"></polygon><polyline class=\"cls-3\" points=\"0.4 23.74 15.62 0.4 91.13 0.4\"></polyline></svg>",
+        "id": "f8ec06c1-ebbc-463c-a515-691af66ead1e",
+        "z": 28,
+        "objectID": "bc19bf69-289d-ba6e-3f7d-2648b31c470f",
+        "pluralName": "",
+        "number": 36
+      },
+      {
+        "type": "tp.Element",
+        "shape": "dynamicSvg",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": true,
+        "displayCase": "uppercase",
+        "name": "<p>virtual storage</p>",
+        "lockAspectRatio": false,
+        "position": {
+          "x": 201,
+          "y": 373
+        },
+        "size": {
+          "width": 76,
+          "height": 54
+        },
+        "angle": 0,
+        "label": "",
+        "strokeStyle": "none",
+        "hasName": true,
+        "labelPosition": "internal",
+        "numberPosition": {
+          "connectionAngle": 300,
+          "leadLineAngle": 300,
+          "leadLineLength": 15
+        },
+        "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"Layer_1\" data-name=\"Layer 1\" viewBox=\"0 0 118.75 87.37\"><defs><style>.cls-1{fill:#fff;stroke:#231f20;stroke-miterlimit:10;}</style></defs><title>databases</title><path class=\"cls-1\" d=\"M88.81.5C72.55.5,59.37,5.05,59.37,10.67V50.3c0,5.62,13.18,10.17,29.44,10.17s29.44-4.55,29.44-10.17V10.67C118.25,5.05,105.07.5,88.81.5Z\"></path><ellipse class=\"cls-1\" cx=\"88.81\" cy=\"10.67\" rx=\"29.44\" ry=\"10.17\"></ellipse><path class=\"cls-1\" d=\"M118.25,50.3c0,5.62-13.18,10.17-29.44,10.17S59.37,55.92,59.37,50.3\"></path><line class=\"cls-1\" x1=\"59.37\" y1=\"10.67\" x2=\"59.37\" y2=\"50.3\"></line><line class=\"cls-1\" x1=\"118.25\" y1=\"10.67\" x2=\"118.25\" y2=\"50.3\"></line><path class=\"cls-1\" d=\"M29.94.5C13.68.5.5,5.05.5,10.67V50.3c0,5.62,13.18,10.17,29.44,10.17S59.37,55.92,59.37,50.3V10.67C59.37,5.05,46.19.5,29.94.5Z\"></path><ellipse class=\"cls-1\" cx=\"29.94\" cy=\"10.67\" rx=\"29.44\" ry=\"10.17\"></ellipse><path class=\"cls-1\" d=\"M59.37,50.3c0,5.62-13.18,10.17-29.43,10.17S.5,55.92.5,50.3\"></path><line class=\"cls-1\" x1=\"0.5\" y1=\"10.67\" x2=\"0.5\" y2=\"50.3\"></line><line class=\"cls-1\" x1=\"59.37\" y1=\"10.67\" x2=\"59.37\" y2=\"50.3\"></line><path class=\"cls-1\" d=\"M59.37,26.9c-16.25,0-29.43,4.55-29.43,10.17V76.7c0,5.61,13.18,10.17,29.43,10.17S88.81,82.31,88.81,76.7V37.07C88.81,31.45,75.63,26.9,59.37,26.9Z\"></path><ellipse class=\"cls-1\" cx=\"59.37\" cy=\"37.07\" rx=\"29.44\" ry=\"10.17\"></ellipse><path class=\"cls-1\" d=\"M88.81,76.7c0,5.61-13.18,10.17-29.44,10.17S29.94,82.31,29.94,76.7\"></path><line class=\"cls-1\" x1=\"29.94\" y1=\"37.07\" x2=\"29.94\" y2=\"76.7\"></line><line class=\"cls-1\" x1=\"88.81\" y1=\"37.07\" x2=\"88.81\" y2=\"76.7\"></line></svg>",
+        "id": "6464e67e-a3e9-4faa-80a0-09426aacf7e6",
+        "z": 29,
+        "objectID": "bac35aa6-f371-eb52-fab1-521bc4f5147c",
+        "pluralName": "",
+        "number": 34
+      },
+      {
+        "type": "tp.Element",
+        "shape": "dynamicSvg",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": true,
+        "displayCase": "uppercase",
+        "name": "<p>networks and networking components</p>",
+        "lockAspectRatio": false,
+        "position": {
+          "x": 515,
+          "y": 490
+        },
+        "size": {
+          "width": 46,
+          "height": 45
+        },
+        "angle": 0,
+        "label": "",
+        "strokeStyle": "none",
+        "hasName": true,
+        "labelPosition": "internal",
+        "numberPosition": {
+          "connectionAngle": 240,
+          "leadLineAngle": 240,
+          "leadLineLength": 15
+        },
+        "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"Layer_1\" data-name=\"Layer 1\" viewBox=\"0 0 91.54 99.66\"><defs><style>.cls-1,.cls-2,.cls-3{fill:none;stroke:#000;}.cls-1,.cls-2{stroke-miterlimit:10;}.cls-1,.cls-3{stroke-width:0.8px;}.cls-3{stroke-linecap:round;stroke-linejoin:round;}</style></defs><title>atm switch</title><rect class=\"cls-1\" x=\"0.4\" y=\"23.74\" width=\"75.51\" height=\"75.51\"></rect><polyline class=\"cls-2\" points=\"12.91 47.09 28.91 47.09 46.4 75.91 63.41 75.91\"></polyline><polygon points=\"14 50.83 7.52 47.09 14 43.34 14 50.83\"></polygon><polygon points=\"62.32 79.65 68.79 75.91 62.32 72.17 62.32 79.65\"></polygon><polyline class=\"cls-2\" points=\"12.91 75.91 28.91 75.91 46.4 47.09 63.41 47.09\"></polyline><polygon points=\"14 79.65 7.52 75.91 14 72.17 14 79.65\"></polygon><polygon points=\"62.32 50.83 68.79 47.09 62.32 43.34 62.32 50.83\"></polygon><polygon class=\"cls-3\" points=\"91.13 75.91 75.91 99.26 75.91 23.74 91.13 0.4 91.13 75.91\"></polygon><polyline class=\"cls-3\" points=\"0.4 23.74 15.62 0.4 91.13 0.4\"></polyline></svg>",
+        "id": "95bdb329-717a-2ca6-bf32-2bc6d13f3615",
+        "z": 29,
+        "objectID": "7c317a80-b704-8269-7ed8-6b64b0ec0cd1",
+        "pluralName": "",
+        "number": 52
+      },
+      {
+        "type": "tp.Element",
+        "shape": "dynamicSvg",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": true,
+        "displayCase": "uppercase",
+        "name": "<p>virtual applications and operating systems</p>",
+        "lockAspectRatio": false,
+        "position": {
+          "x": 399,
+          "y": 369
+        },
+        "size": {
+          "width": 81,
+          "height": 58
+        },
+        "angle": 0,
+        "label": "",
+        "strokeStyle": "none",
+        "hasName": true,
+        "labelPosition": "internal",
+        "numberPosition": {
+          "connectionAngle": 300,
+          "leadLineAngle": 300,
+          "leadLineLength": 15
+        },
+        "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"Layer_1\" data-name=\"Layer 1\" viewBox=\"0 0 140.06 102.71\"><defs><style>.cls-1{fill:#fff;stroke:#231f20;stroke-miterlimit:10;}</style></defs><title>operating system</title><rect class=\"cls-1\" x=\"29.37\" y=\"0.5\" width=\"110.2\" height=\"90.95\"></rect><rect class=\"cls-1\" x=\"29.37\" y=\"0.5\" width=\"110.2\" height=\"10.76\"></rect><rect class=\"cls-1\" x=\"29.37\" y=\"80.7\" width=\"110.2\" height=\"10.76\"></rect><rect class=\"cls-1\" x=\"18.17\" y=\"5.88\" width=\"110.2\" height=\"90.95\"></rect><rect class=\"cls-1\" x=\"18.17\" y=\"5.88\" width=\"110.2\" height=\"10.76\"></rect><rect class=\"cls-1\" x=\"18.17\" y=\"86.07\" width=\"110.2\" height=\"10.76\"></rect><rect class=\"cls-1\" x=\"0.5\" y=\"11.26\" width=\"110.2\" height=\"90.95\"></rect><rect class=\"cls-1\" x=\"0.5\" y=\"11.26\" width=\"110.2\" height=\"10.76\"></rect><rect class=\"cls-1\" x=\"0.5\" y=\"91.45\" width=\"110.2\" height=\"10.76\"></rect><rect class=\"cls-1\" x=\"23.48\" y=\"36.24\" width=\"60\" height=\"40.98\"></rect><rect class=\"cls-1\" x=\"23.48\" y=\"36.24\" width=\"60\" height=\"5.12\"></rect><rect class=\"cls-1\" x=\"51.32\" y=\"51.24\" width=\"24.48\" height=\"17.78\"></rect><rect class=\"cls-1\" x=\"29.37\" y=\"48.72\" width=\"17.23\" height=\"7.46\"></rect><rect class=\"cls-1\" x=\"29.37\" y=\"62.27\" width=\"17.23\" height=\"7.46\"></rect></svg>",
+        "id": "baf56041-c9dd-48ec-b21d-66192c65551b",
+        "z": 30,
+        "objectID": "4769352b-6f06-b2b6-0078-574914e5a79c",
+        "pluralName": "",
+        "number": 38
+      },
+      {
+        "type": "tp.Element",
+        "shape": "dynamicSvg",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": true,
+        "displayCase": "uppercase",
+        "name": "<p>storage devices</p>",
+        "lockAspectRatio": false,
+        "position": {
+          "x": 449,
+          "y": 500
+        },
+        "size": {
+          "width": 46,
+          "height": 39
+        },
+        "angle": 0,
+        "label": "",
+        "strokeStyle": "none",
+        "hasName": true,
+        "labelPosition": "internal",
+        "numberPosition": {
+          "connectionAngle": 240,
+          "leadLineAngle": 240,
+          "leadLineLength": 15
+        },
+        "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"Layer_1\" data-name=\"Layer 1\" viewBox=\"0 0 118.75 87.37\"><defs><style>.cls-1{fill:#fff;stroke:#231f20;stroke-miterlimit:10;}</style></defs><title>databases</title><path class=\"cls-1\" d=\"M88.81.5C72.55.5,59.37,5.05,59.37,10.67V50.3c0,5.62,13.18,10.17,29.44,10.17s29.44-4.55,29.44-10.17V10.67C118.25,5.05,105.07.5,88.81.5Z\"></path><ellipse class=\"cls-1\" cx=\"88.81\" cy=\"10.67\" rx=\"29.44\" ry=\"10.17\"></ellipse><path class=\"cls-1\" d=\"M118.25,50.3c0,5.62-13.18,10.17-29.44,10.17S59.37,55.92,59.37,50.3\"></path><line class=\"cls-1\" x1=\"59.37\" y1=\"10.67\" x2=\"59.37\" y2=\"50.3\"></line><line class=\"cls-1\" x1=\"118.25\" y1=\"10.67\" x2=\"118.25\" y2=\"50.3\"></line><path class=\"cls-1\" d=\"M29.94.5C13.68.5.5,5.05.5,10.67V50.3c0,5.62,13.18,10.17,29.44,10.17S59.37,55.92,59.37,50.3V10.67C59.37,5.05,46.19.5,29.94.5Z\"></path><ellipse class=\"cls-1\" cx=\"29.94\" cy=\"10.67\" rx=\"29.44\" ry=\"10.17\"></ellipse><path class=\"cls-1\" d=\"M59.37,50.3c0,5.62-13.18,10.17-29.43,10.17S.5,55.92.5,50.3\"></path><line class=\"cls-1\" x1=\"0.5\" y1=\"10.67\" x2=\"0.5\" y2=\"50.3\"></line><line class=\"cls-1\" x1=\"59.37\" y1=\"10.67\" x2=\"59.37\" y2=\"50.3\"></line><path class=\"cls-1\" d=\"M59.37,26.9c-16.25,0-29.43,4.55-29.43,10.17V76.7c0,5.61,13.18,10.17,29.43,10.17S88.81,82.31,88.81,76.7V37.07C88.81,31.45,75.63,26.9,59.37,26.9Z\"></path><ellipse class=\"cls-1\" cx=\"59.37\" cy=\"37.07\" rx=\"29.44\" ry=\"10.17\"></ellipse><path class=\"cls-1\" d=\"M88.81,76.7c0,5.61-13.18,10.17-29.44,10.17S29.94,82.31,29.94,76.7\"></path><line class=\"cls-1\" x1=\"29.94\" y1=\"37.07\" x2=\"29.94\" y2=\"76.7\"></line><line class=\"cls-1\" x1=\"88.81\" y1=\"37.07\" x2=\"88.81\" y2=\"76.7\"></line></svg>",
+        "id": "6f7fae82-d932-25be-fb90-916a7d6a7b2c",
+        "z": 30,
+        "objectID": "4a0af44e-8cbd-d9ab-a4c8-429813e4d700",
+        "pluralName": "",
+        "number": 50
+      },
+      {
+        "type": "tp.Element",
+        "shape": "dynamicSvg",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": true,
+        "displayCase": "uppercase",
+        "name": "<p>servers</p>",
+        "lockAspectRatio": false,
+        "position": {
+          "x": 351,
+          "y": 471
+        },
+        "size": {
+          "width": 67,
+          "height": 72
+        },
+        "angle": 0,
+        "label": "",
+        "strokeStyle": "none",
+        "hasName": true,
+        "labelPosition": "internal",
+        "numberPosition": {
+          "connectionAngle": 240,
+          "leadLineAngle": 240,
+          "leadLineLength": 23
+        },
+        "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" version=\"1.1\" id=\"svg2\" x=\"0px\" y=\"0px\" viewBox=\"0 0 402.1 706.3\" style=\"enable-background:new 0 0 402.1 706.3;\" xml:space=\"preserve\">\n<style type=\"text/css\">\n\t.st0{fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;}\n\t.st1{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;}\n\t.st2{fill:#FFFFFF;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;}\n\t.st3{fill:none;}\n</style>\n<title>blade-servers-outline-vector</title>\n<g id=\"layer1\">\n\t<path id=\"path3284\" class=\"st0\" d=\"M158.4,5L5,93.6V579l211.7,122.3l153.4-88.6v-489L158.4,5z\"></path>\n\t<path id=\"path3232\" class=\"st0\" d=\"M5,579l211.7,122.3V215.8L5,93.6V579z\"></path>\n\t<path id=\"path3266\" class=\"st0\" d=\"M383.1,291.7c0,41.9-11.7,76-26.3,76s-26.3-33.9-26.3-75.8v-0.2c0-41.9,11.7-75.9,26.3-76   s26.3,33.9,26.3,75.8V291.7z\"></path>\n\t<path id=\"path3270\" class=\"st0\" d=\"M383.1,466.3c0,41.9-11.7,76-26.3,76s-26.3-33.9-26.3-75.8v-0.2c0-41.9,11.7-76,26.3-76   s26.3,33.9,26.3,75.8V466.3z\"></path>\n\t<path id=\"path3268\" class=\"st0\" d=\"M396.3,382.8c0,41.9-11.7,75.9-26.3,76s-26.3-33.9-26.3-75.8v-0.2c0-41.9,11.7-76,26.3-76   s26.3,33.9,26.3,75.8L396.3,382.8z\"></path>\n\t<path id=\"path3234\" class=\"st1\" d=\"M370,124.7l0.2,488.1l-153.4,88.5V215.8L370,124.7z\"></path>\n\t<path id=\"path3240\" class=\"st0\" d=\"M20.3,573l15.4-1.1V107.8l-15.4-8.9V573z\"></path>\n\t<path id=\"path3244\" class=\"st1\" d=\"M14.2,573.7l202.5,116.9v-31.9L14.2,541.8V573.7z\"></path>\n\t<path id=\"path3246\" class=\"st1\" d=\"M14.2,541.8l202.5,116.9v-35.4L14.2,509.9V541.8z\"></path>\n\t<path id=\"path3286\" class=\"st1\" d=\"M14.2,509.9l202.5-114.3v227.7L14.2,509.9z\"></path>\n\t<path id=\"path3260\" class=\"st1\" d=\"M14.2,403.6l202.5,116.9v-31.9L14.2,375.3V403.6z\"></path>\n\t<path id=\"path3252\" class=\"st1\" d=\"M14.2,375.3l202.5,113.4v-28.4L14.2,343.4V375.3z\"></path>\n\t<path id=\"path3254\" class=\"st1\" d=\"M14.2,343.4l202.5-110.8v227.7L14.2,343.4z\"></path>\n\t<path id=\"path3256\" class=\"st1\" d=\"M14.2,283.1l202.5,116.9v-31.9L14.2,251.3V283.1z\"></path>\n\t<path id=\"path3258\" class=\"st1\" d=\"M14.2,251.3l132.3-73.4l70.2,38v152.4L14.2,251.3z\"></path>\n\t<path id=\"path3230\" class=\"st1\" d=\"M5,93.6L158.4,5L370,124.7l-153.3,91.1L5,93.6z\"></path>\n\t<path id=\"path3264\" class=\"st1\" d=\"M14.2,435.5l202.5,114.3v-29.2L14.2,403.6V435.5z\"></path>\n\t<path id=\"path3272\" class=\"st0\" d=\"M28.3,276.5l52.6,30.4\"></path>\n\t<path id=\"path3274\" class=\"st0\" d=\"M28.3,367.6L80.8,398\"></path>\n\t<path id=\"path3276\" class=\"st0\" d=\"M28.3,398l52.6,30.4\"></path>\n\t<path id=\"path3278\" class=\"st0\" d=\"M28.3,428.3l52.6,30.4\"></path>\n\t<path id=\"path3280\" class=\"st0\" d=\"M28.3,534.6L80.8,565\"></path>\n\t<path id=\"path3282\" class=\"st0\" d=\"M28.3,565l52.6,30.4\"></path>\n\t<g id=\"g3332\">\n\t\t<g id=\"g3300\">\n\t\t\t<path id=\"path3288\" class=\"st2\" d=\"M109.3,314.6c3.5,0,6.3,3.3,6.3,7.4s-2.8,7.4-6.3,7.4s-6.3-3.3-6.3-7.4     S105.8,314.6,109.3,314.6z\"></path>\n\t\t\t<path id=\"path3290\" class=\"st2\" d=\"M128.3,325.6c3.5,0,6.3,3.3,6.3,7.4s-2.8,7.4-6.3,7.4s-6.3-3.3-6.3-7.4     S124.8,325.6,128.3,325.6z\"></path>\n\t\t</g>\n\t</g>\n\t<g id=\"g3296\">\n\t\t<path id=\"path3292\" class=\"st2\" d=\"M109.3,405.4c3.5,0,6.3,3.3,6.3,7.4s-2.8,7.4-6.3,7.4s-6.3-3.3-6.3-7.4    S105.8,405.4,109.3,405.4z\"></path>\n\t\t<path id=\"path3294\" class=\"st2\" d=\"M128.3,416.4c3.5,0,6.3,3.3,6.3,7.4s-2.8,7.4-6.3,7.4s-6.3-3.3-6.3-7.4    S124.8,416.4,128.3,416.4z\"></path>\n\t</g>\n\t<g id=\"g3308\">\n\t\t<path id=\"path3310\" class=\"st2\" d=\"M109.3,435.7c3.5,0,6.3,3.3,6.3,7.4s-2.8,7.4-6.3,7.4s-6.3-3.3-6.3-7.4    S105.8,435.7,109.3,435.7z\"></path>\n\t\t<path id=\"path3312\" class=\"st2\" d=\"M128.3,446.6c3.5,0,6.3,3.3,6.3,7.4s-2.8,7.4-6.3,7.4s-6.3-3.3-6.3-7.4    S124.8,446.6,128.3,446.6z\"></path>\n\t</g>\n\t<g id=\"g3314\">\n\t\t<path id=\"path3316\" class=\"st2\" d=\"M109.3,466.5c3.5,0,6.3,3.3,6.3,7.4s-2.8,7.4-6.3,7.4s-6.3-3.3-6.3-7.4    S105.8,466.5,109.3,466.5z\"></path>\n\t\t<path id=\"path3318\" class=\"st2\" d=\"M128.3,477.4c3.5,0,6.3,3.3,6.3,7.4s-2.8,7.4-6.3,7.4s-6.3-3.3-6.3-7.4    S124.8,477.4,128.3,477.4z\"></path>\n\t</g>\n\t<g id=\"g3320\">\n\t\t<path id=\"path3322\" class=\"st2\" d=\"M109.3,572c3.5,0,6.3,3.3,6.3,7.4s-2.8,7.4-6.3,7.4s-6.3-3.3-6.3-7.4S105.8,572,109.3,572z\"></path>\n\t\t<path id=\"path3324\" class=\"st2\" d=\"M128.3,583c3.5,0,6.3,3.3,6.3,7.4s-2.8,7.4-6.3,7.4s-6.3-3.3-6.3-7.4S124.8,583,128.3,583z\"></path>\n\t</g>\n\t<g id=\"g3326\">\n\t\t<path id=\"path3328\" class=\"st2\" d=\"M109.3,605.1c3.5,0,6.3,3.3,6.3,7.4s-2.8,7.4-6.3,7.4s-6.3-3.3-6.3-7.4    S105.8,605.1,109.3,605.1z\"></path>\n\t\t<path id=\"path3330\" class=\"st2\" d=\"M128.3,616c3.5,0,6.3,3.3,6.3,7.4s-2.8,7.4-6.3,7.4s-6.3-3.3-6.3-7.4S124.8,616,128.3,616z\"></path>\n\t</g>\n\t<path id=\"path3233\" class=\"st3\" d=\"M109.3,560.2c9.1,0,16.4,8.6,16.4,19.2s-7.3,19.2-16.4,19.2s-16.4-8.6-16.4-19.2   S100.3,560.2,109.3,560.2z\"></path>\n\t<path id=\"path3666\" class=\"st3\" d=\"M109.3,593.1c9.1,0,16.4,8.6,16.4,19.2s-7.3,19.2-16.4,19.2s-16.4-8.6-16.4-19.2   S100.3,593.1,109.3,593.1z\"></path>\n\t<path id=\"path3662\" class=\"st3\" d=\"M128.1,571.1c9.1,0,16.4,8.6,16.4,19.2s-7.3,19.2-16.4,19.2s-16.4-8.6-16.4-19.2   S119.1,571.1,128.1,571.1z\"></path>\n\t<path id=\"path3670\" class=\"st3\" d=\"M128.2,604.3c9,0,16.4,8.6,16.4,19.2s-7.3,19.2-16.4,19.2s-16.4-8.6-16.4-19.2   S119.2,604.3,128.2,604.3z\"></path>\n\t<path id=\"path3674\" class=\"st3\" d=\"M128.2,465.8c9,0,16.4,8.6,16.4,19.2s-7.3,19.2-16.4,19.2s-16.4-8.6-16.4-19.2   S119.2,465.8,128.2,465.8z\"></path>\n\t<path id=\"path3678\" class=\"st3\" d=\"M109.3,454.7c9.1,0,16.4,8.6,16.4,19.2s-7.3,19.2-16.4,19.2s-16.4-8.6-16.4-19.2   S100.2,454.7,109.3,454.7z\"></path>\n\t<path id=\"path3682\" class=\"st3\" d=\"M128.2,434.8c9,0,16.4,8.6,16.4,19.2s-7.3,19.2-16.4,19.2s-16.4-8.6-16.4-19.2   S119.2,434.8,128.2,434.8z\"></path>\n\t<path id=\"path3686\" class=\"st3\" d=\"M109.3,424c9.1,0,16.4,8.6,16.4,19.2s-7.3,19.2-16.4,19.2s-16.4-8.6-16.4-19.2   S100.3,424,109.3,424z\"></path>\n\t<path id=\"path3690\" class=\"st3\" d=\"M109.3,393.9c9.1,0,16.4,8.6,16.4,19.2s-7.3,19.2-16.4,19.2s-16.4-8.6-16.4-19.2   S100.3,393.9,109.3,393.9z\"></path>\n\t<path id=\"path3694\" class=\"st3\" d=\"M128.2,404.6c9,0,16.4,8.6,16.4,19.2s-7.3,19.2-16.4,19.2s-16.4-8.6-16.4-19.2   S119.2,404.6,128.2,404.6z\"></path>\n\t<path id=\"path3698\" class=\"st3\" d=\"M128.2,313.7c9.1,0,16.4,8.6,16.4,19.2s-7.3,19.2-16.4,19.2s-16.4-8.6-16.4-19.2   S119.1,313.7,128.2,313.7z\"></path>\n\t<path id=\"path3702\" class=\"st3\" d=\"M109.3,302.9c9.1,0,16.4,8.6,16.4,19.2s-7.3,19.2-16.4,19.2s-16.4-8.6-16.4-19.2   S100.3,302.9,109.3,302.9z\"></path>\n</g>\n</svg>",
+        "id": "92edf326-7bb3-4573-80bf-90078a2749c2",
+        "z": 31,
+        "objectID": "95cc4d1a-eee1-c670-8699-7156bb524507",
+        "pluralName": "",
+        "number": 48
+      },
+      {
+        "type": "tp.Element",
+        "shape": "dynamicSvg",
+        "labelVAlign": "center",
+        "isNumbered": false,
+        "outsideNumbers": true,
+        "displayCase": "uppercase",
+        "name": "",
+        "lockAspectRatio": false,
+        "position": {
+          "x": 1,
+          "y": 191
+        },
+        "size": {
+          "width": 866,
+          "height": 174
+        },
+        "angle": 0,
+        "label": "",
+        "strokeStyle": "none",
+        "hasName": false,
+        "labelPosition": "internal",
+        "numberPosition": {
+          "connectionAngle": 240,
+          "leadLineAngle": 240
+        },
+        "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" id=\"Layer_1\" data-name=\"Layer 1\" viewBox=\"0 0 378.45 126.52\"><defs><style>.cls-1{fill:#fff;stroke:#231f20;stroke-miterlimit:10;}</style></defs><title>trapazoid-01v2</title><polygon class=\"cls-1\" points=\"279.62 126.02 1.02 126.02 98.72 0.5 377.42 0.5 279.62 126.02\"></polygon><polygon class=\"cls-1\" points=\"66.12 101.4 28.32 101.4 102.52 6.3 140.32 6.3 66.12 101.4\"></polygon><polygon class=\"cls-1\" points=\"121.72 101.4 83.92 101.4 158.12 6.3 195.92 6.3 121.72 101.4\"></polygon><polygon class=\"cls-1\" points=\"177.32 101.4 139.52 101.4 213.72 6.3 251.52 6.3 177.32 101.4\"></polygon><polygon class=\"cls-1\" points=\"232.92 101.4 195.12 101.4 269.32 6.3 307.12 6.3 232.92 101.4\"></polygon><polygon class=\"cls-1\" points=\"288.52 101.4 250.72 101.4 324.92 6.3 362.72 6.3 288.52 101.4\"></polygon></svg>",
+        "id": "9a4c9612-4c0a-4f67-911a-637d7f19d5f3",
+        "z": 35,
+        "objectID": "ae6c25a3-45c2-a3c7-5863-291da611a835",
+        "pluralName": "",
+        "number": null
+      },
+      {
+        "type": "tp.Element",
+        "shape": "dynamicSvg",
+        "labelVAlign": "center",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "lockAspectRatio": false,
+        "position": {
+          "x": 8,
+          "y": 70
+        },
+        "size": {
+          "width": 866,
+          "height": 174
+        },
+        "angle": 0,
+        "label": "",
+        "strokeStyle": "none",
+        "hasName": false,
+        "labelPosition": "internal",
+        "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" version=\"1.1\" id=\"Layer_1\" x=\"0px\" y=\"0px\" viewBox=\"0 0 378.4 126.5\" style=\"enable-background:new 0 0 378.4 126.5;\" xml:space=\"preserve\">\n<style type=\"text/css\">\n\t.st0{fill:#FFFFFF;stroke:#231F20;stroke-miterlimit:10;}\n</style>\n<title>trapazoid</title>\n<polygon class=\"st0\" points=\"279.6,126 1,126 98.7,0.5 377.4,0.5\"></polygon>\n<polygon class=\"st0\" points=\"66.1,101.4 28.3,101.4 102.5,6.3 140.3,6.3\"></polygon>\n<polygon class=\"st0\" points=\"110.7,101.4 72.9,101.4 147.1,6.3 184.9,6.3\"></polygon>\n<polygon class=\"st0\" points=\"155.2,101.4 117.4,101.4 191.6,6.3 229.4,6.3\"></polygon>\n<polygon class=\"st0\" points=\"199.8,101.4 162,101.4 236.2,6.3 274,6.3\"></polygon>\n<polygon class=\"st0\" points=\"244.3,101.4 206.5,101.4 280.7,6.3 318.5,6.3\"></polygon>\n<polygon class=\"st0\" points=\"288.9,101.4 251,101.4 325.2,6.3 363.1,6.3\"></polygon>\n</svg>",
+        "id": "6afd2894-867c-7c84-39d7-fbce0f5001de",
+        "z": 36,
+        "objectID": "47cba8db-0356-7dda-7d27-c105368b95b0",
+        "pluralName": "",
+        "number": null
+      },
+      {
+        "type": "tp.Element",
+        "shape": "textboxLabel",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "<p>workloads layer</p>",
+        "lockAspectRatio": false,
+        "position": {
+          "x": 39,
+          "y": 222
+        },
+        "size": {
+          "width": 121,
+          "height": 17
+        },
+        "angle": 0,
+        "label": "<p>workload</p>",
+        "strokeStyle": "none",
+        "hasName": true,
+        "labelPosition": "internal",
+        "id": "6937c494-643c-46ae-b5ca-26c9e2463b3a",
+        "z": 37,
+        "objectID": "f1e4e478-8369-193b-a1e3-b8a8c1c5dfc7",
+        "pluralName": "",
+        "number": 2
+      },
+      {
+        "type": "tp.Element",
+        "shape": "numberElement",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "<p><span data-value=\"c3381f34-0b1e-00bb-c6cd-4cc7b7c57bbf\" data-type=\"term\" id=\"id60626b15-d8c7-4389-a5c2-a1c2f92602be\" data-role=\"tag\">search string</span> creation, evaluation, and/or improvement</p>",
+        "lockAspectRatio": true,
+        "position": {
+          "x": 691,
+          "y": 144.5
+        },
+        "size": {
+          "width": 19,
+          "height": 19
+        },
+        "angle": 0,
+        "label": "<p><span data-value=\"c3381f34-0b1e-00bb-c6cd-4cc7b7c57bbf\" data-type=\"term\" id=\"id60626b15-d8c7-4389-a5c2-a1c2f92602be\" data-role=\"tag\">search string</span> creation, evaluation, and/or improvement</p>",
+        "strokeStyle": "none",
+        "hasName": false,
+        "labelPosition": "only",
+        "id": "30c4de47-b210-870a-79e1-ad60f1124293",
+        "z": 38,
+        "objectID": "3c1c270e-8a8e-7b11-41ce-2b80762a05d6",
+        "pluralName": "",
+        "number": 20,
+        "underlineNumber": true
+      },
+      {
+        "type": "tp.Element",
+        "shape": "numberElement",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "<p>transaction processing</p>",
+        "lockAspectRatio": true,
+        "position": {
+          "x": 587.5999999999999,
+          "y": 144.5
+        },
+        "size": {
+          "width": 19,
+          "height": 19
+        },
+        "angle": 0,
+        "label": "<p>transaction processing</p>",
+        "strokeStyle": "none",
+        "hasName": false,
+        "labelPosition": "only",
+        "id": "fbe57576-81b0-2dd9-0a45-a7f77e59f8cb",
+        "z": 38,
+        "objectID": "dd96de60-bdd2-9e27-4238-de5b09ce5148",
+        "pluralName": "",
+        "number": 18,
+        "underlineNumber": true
+      },
+      {
+        "type": "tp.Element",
+        "shape": "numberElement",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "<p>data analytics processing</p>",
+        "lockAspectRatio": true,
+        "position": {
+          "x": 484.19999999999993,
+          "y": 144.5
+        },
+        "size": {
+          "width": 19,
+          "height": 19
+        },
+        "angle": 0,
+        "label": "<p>data analytics processing</p>",
+        "strokeStyle": "none",
+        "hasName": false,
+        "labelPosition": "only",
+        "id": "9fa04f0a-07c2-566c-6188-aeb0d4450ee3",
+        "z": 38,
+        "objectID": "ea268d07-1478-baf4-313f-7565059a3572",
+        "pluralName": "",
+        "number": 16,
+        "underlineNumber": true
+      },
+      {
+        "type": "tp.Element",
+        "shape": "numberElement",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "<p>virtual classroom education delivery</p>",
+        "lockAspectRatio": true,
+        "position": {
+          "x": 380.79999999999995,
+          "y": 144.5
+        },
+        "size": {
+          "width": 19,
+          "height": 19
+        },
+        "angle": 0,
+        "label": "<p>virtual classroom education delivery</p>",
+        "strokeStyle": "none",
+        "hasName": false,
+        "labelPosition": "only",
+        "id": "d72c86d4-94ae-d56c-8ce7-23d22d0eb66f",
+        "z": 38,
+        "objectID": "02719025-ee3c-6faf-999c-1411bc037913",
+        "pluralName": "",
+        "number": 14,
+        "underlineNumber": true
+      },
+      {
+        "type": "tp.Element",
+        "shape": "numberElement",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "<p>software development and lifecycle management</p>",
+        "lockAspectRatio": true,
+        "position": {
+          "x": 277.4,
+          "y": 144.5
+        },
+        "size": {
+          "width": 19,
+          "height": 19
+        },
+        "angle": 0,
+        "label": "<p>software development and lifecycle management</p>",
+        "strokeStyle": "none",
+        "hasName": false,
+        "labelPosition": "only",
+        "id": "731951a4-58b2-6341-444e-c982c5879737",
+        "z": 38,
+        "objectID": "33f94f96-fee1-6386-ffa7-23d4989b0726",
+        "pluralName": "",
+        "number": 12,
+        "underlineNumber": true
+      },
+      {
+        "type": "tp.Element",
+        "shape": "numberElement",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "<p>mapping and navigation</p>",
+        "lockAspectRatio": true,
+        "position": {
+          "x": 174,
+          "y": 145
+        },
+        "size": {
+          "width": 19,
+          "height": 19
+        },
+        "angle": 0,
+        "label": "<p>mapping and navigation</p>",
+        "strokeStyle": "none",
+        "hasName": false,
+        "labelPosition": "only",
+        "id": "67f52df9-1865-5f02-6172-e3a02577dee4",
+        "z": 38,
+        "objectID": "d69f2f74-0801-ba21-b479-7b696fe05a90",
+        "pluralName": "",
+        "number": 10,
+        "underlineNumber": true
+      },
+      {
+        "type": "tp.Element",
+        "shape": "textboxLabel",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "<p>management layer</p>",
+        "lockAspectRatio": false,
+        "position": {
+          "x": 8,
+          "y": 338
+        },
+        "size": {
+          "width": 170,
+          "height": 22
+        },
+        "angle": 0,
+        "label": "<p>management</p>",
+        "strokeStyle": "none",
+        "hasName": true,
+        "labelPosition": "internal",
+        "id": "0e3341e3-ffe1-8210-5c50-dacfb81d29ca",
+        "z": 39,
+        "objectID": "53124796-3009-30d3-67e0-858574e41643",
+        "pluralName": "",
+        "number": 4
+      },
+      {
+        "type": "tp.Element",
+        "shape": "numberElement",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "<p>Service Level Agreement (SLA) planning and fulfillment</p>",
+        "lockAspectRatio": true,
+        "position": {
+          "x": 665,
+          "y": 272
+        },
+        "size": {
+          "width": 19,
+          "height": 19
+        },
+        "angle": 0,
+        "label": "<p>Service Level Agreement (SLA) planning and fulfillment</p>",
+        "strokeStyle": "none",
+        "hasName": false,
+        "labelPosition": "only",
+        "id": "9cc77974-91e5-6911-2b9e-295aa2aade04",
+        "z": 40,
+        "objectID": "b47debd8-1086-6de5-04c6-a3379b342e72",
+        "pluralName": "",
+        "number": 30,
+        "underlineNumber": true
+      },
+      {
+        "type": "tp.Element",
+        "shape": "numberElement",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "<p>Service level management</p>",
+        "lockAspectRatio": true,
+        "position": {
+          "x": 533,
+          "y": 274
+        },
+        "size": {
+          "width": 19,
+          "height": 19
+        },
+        "angle": 0,
+        "label": "<p>Service level management</p>",
+        "strokeStyle": "none",
+        "hasName": false,
+        "labelPosition": "only",
+        "id": "1aded97e-59b7-59e3-0e4d-0dc26de5b367",
+        "z": 40,
+        "objectID": "e0966ca3-2a44-c37b-dfd2-48c7d9532f45",
+        "pluralName": "",
+        "number": 28,
+        "underlineNumber": true
+      },
+      {
+        "type": "tp.Element",
+        "shape": "numberElement",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "<p>User portal</p>",
+        "lockAspectRatio": true,
+        "position": {
+          "x": 410,
+          "y": 277
+        },
+        "size": {
+          "width": 19,
+          "height": 19
+        },
+        "angle": 0,
+        "label": "<p>User portal</p>",
+        "strokeStyle": "none",
+        "hasName": false,
+        "labelPosition": "only",
+        "id": "b4de2379-afc6-85a2-9d3b-5f8b56c5b67b",
+        "z": 40,
+        "objectID": "dbb613ea-d646-f9d4-e3dd-f7535b02d5a3",
+        "pluralName": "",
+        "number": 26,
+        "underlineNumber": true
+      },
+      {
+        "type": "tp.Element",
+        "shape": "numberElement",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "<p>Metering and Pricing</p>",
+        "lockAspectRatio": true,
+        "position": {
+          "x": 276,
+          "y": 274
+        },
+        "size": {
+          "width": 19,
+          "height": 19
+        },
+        "angle": 0,
+        "label": "<p>Metering and Pricing</p>",
+        "strokeStyle": "none",
+        "hasName": false,
+        "labelPosition": "only",
+        "id": "dd51fbf0-2daa-fc50-a553-33391e824748",
+        "z": 40,
+        "objectID": "bbf7c94f-392e-7c4d-ada0-eee6f0e449a3",
+        "pluralName": "",
+        "number": 24,
+        "underlineNumber": true
+      },
+      {
+        "type": "tp.Element",
+        "shape": "numberElement",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "<p>Resource provisioning</p>",
+        "lockAspectRatio": true,
+        "position": {
+          "x": 160,
+          "y": 274
+        },
+        "size": {
+          "width": 19,
+          "height": 19
+        },
+        "angle": 0,
+        "label": "<p>Resource provisioning</p>",
+        "strokeStyle": "none",
+        "hasName": false,
+        "labelPosition": "only",
+        "id": "e0ba0a50-cd5c-9431-1ea1-152344c04a94",
+        "z": 40,
+        "objectID": "7da2fbf3-1eee-1487-7de5-1b61908492c6",
+        "pluralName": "",
+        "number": 22,
+        "underlineNumber": true
+      }
+    ],
+    "tpVersion": 4
+  },
+  "migrations": {
+    "briefDescriptionFigureTag": true
+  }
+}
